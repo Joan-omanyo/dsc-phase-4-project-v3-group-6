@@ -95,6 +95,7 @@ Accuracy: 69.1%
 Improvement over baseline: 6.5%
 
 #### Brand-Specific Insights
+![Top 10 most mentioned brands] (%)](https://github.com/Joan-omanyo/dsc-phase-4-project-v3-group-6/blob/main/images/Top%2010%20most%20mentioned%20brands.png)
 
 Top Performing Brands (Highest Positive %)
 
