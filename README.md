@@ -138,6 +138,7 @@ Competitive Analysis: Monitor sentiment trends across brands.
 Continuous Monitoring: Establish ongoing sentiment tracking.
 
 Pipeline Components
+![Pipeline Components](https://github.com/Joan-omanyo/dsc-phase-4-project-v3-group-6/blob/main/images/Pipeline%20Componets.png)
 
 * Data Loading & Cleaning
 
