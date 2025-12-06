@@ -50,7 +50,7 @@ Negative: 7%
 ### Key Challenges & Solutions
 #### 1. Class Imbalance
 
-![Distribution of sentiment lables (%)](http://localhost:8888/view/sentiment-analysis/images/Distribution%20of%20sentiment%20lables.png)
+![Distribution of sentiment lables (%)](https://github.com/Joan-omanyo/dsc-phase-4-project-v3-group-6/blob/main/images/Distribution%20of%20sentiment%20lables.png)
 
 Problem: Severe imbalance (Neutral: 60%, Negative: 7%)
 
