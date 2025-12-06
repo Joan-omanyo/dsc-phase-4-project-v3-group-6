@@ -87,6 +87,7 @@ Model Rankings (Accuracy)
 * Baseline (Naive Bayes): 64.8% (F1: 64.8%)
 
 ###### Best Model
+![Multiple Models Performancehttps](https://github.com/Joan-omanyo/dsc-phase-4-project-v3-group-6/blob/main/images/SentimentCount%20-%20project%204(2).png)
 
 Algorithm: Random Forest
 
